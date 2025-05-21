@@ -1,5 +1,6 @@
-## Hi there 👋
-
+<div align=center>
+<img src=https://github.com/shtoa/EvilLLM/blob/main/img/chatgif.gif>
+</div>
 <!--
 **shtoa/shtoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
